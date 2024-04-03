@@ -1,0 +1,13 @@
+My name is Son. 
+I have recently graduated from the University of Transport and Communications in April 2024. My major is Industrial Electronics, specializing in embedded programming and C/C++ programming.
+
+During my time at university, I developed a keen interest in the field of embedded systems and programming. I have gained hands-on experience in designing and implementing various electronic projects, focusing on microcontroller programming and hardware interfacing.
+
+I am passionate about exploring new technologies and continuously learning to enhance my skills in the ever-evolving field of electronics and computer science.
+
+If you have any inquiries or would like to get in touch with me, please feel free to reach out to me via email at thanhson131101@gmail.com or give me a call at 0936165591.
+
+Thank you for taking the time to learn a little bit about me. I look forward to connecting with you soon.
+
+Best regards,
+Son
